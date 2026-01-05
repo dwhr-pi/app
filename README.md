@@ -11,7 +11,7 @@ Die neueste Version: https://github.com/andistro/app/releases/latest
 Es verwendet VNC und ich habe die AVNC-Anwendung zur Standardanwendung für das Installationsprogramm gemacht, aber es ist nicht obligatorisch.
 Code zum Installieren in Termux
 ```
-curl -L "https://github.com/andistro/app/releases/latest/download/andistro_setup " / bash
+curl -L "https://github.com/andistro/app/releases/latest/download/andistro_setup" | bash
 ```
 Sobald Sie es ausgeführt haben, sollte es Andistro und Termux konfigurieren. 
 Um mit dem Installer zu arbeiten.
