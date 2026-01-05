@@ -4,6 +4,7 @@
 <a href="#"><img src=""></a>
 </div>
 -->
+https://www.reddit.com/r/termux/comments/1pz56yr/i_created_my_own_intuitive_debian_installer/ 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andistro/.github/refs/heads/main/profile/assets/images/logo.png">
