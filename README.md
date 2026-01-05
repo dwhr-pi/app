@@ -6,6 +6,16 @@
 -->
 https://www.reddit.com/r/termux/comments/1pz56yr/i_created_my_own_intuitive_debian_installer/ 
 https://www.reddit.com/r/termux/
+Der Code ist auf Github: https://github.com/andistro/app
+Die neueste Version: https://github.com/andistro/app/releases/latest
+Es verwendet VNC und ich habe die AVNC-Anwendung zur Standardanwendung für das Installationsprogramm gemacht, aber es ist nicht obligatorisch.
+Code zum Installieren in Termux
+```
+curl -L "https://github.com/andistro/app/releases/latest/download/andistro_setup " / bash
+```
+Sobald Sie es ausgeführt haben, sollte es Andistro und Termux konfigurieren. 
+Um mit dem Installer zu arbeiten.
+Geben Sie zum Starten einfach den Befehl `andistro` ein, um das Installationsmenü zu starten.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andistro/.github/refs/heads/main/profile/assets/images/logo.png">
